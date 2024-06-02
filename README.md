@@ -60,4 +60,5 @@ Contributions to this project are welcome. If you have ideas for improvements or
 ## Authors
 - Atharv Sharma - Project Lead & Developer
 - G Neeraj - Sensor Integration & Testing
-- Soham Pujari - Display Module Configuration & Optimization 
+- Soham Pujari - Display Module Configuration & Optimization
+- Sakshi Sonkusare - Documentation
